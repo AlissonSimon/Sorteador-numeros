@@ -1,3 +1,5 @@
+<!--Copyright (c) 2024 Fernanda Kipper Bucoski de Sousa-->
+
 [JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
 
 <h1 align="center" style="font-weight: bold;">Sorteador de Números 💻</h1>
